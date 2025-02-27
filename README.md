@@ -1,6 +1,16 @@
 # Проект "AI-консультант Александра Иванова"
 
-Ссылка на проект: https://t.me/aleksivanov_ai_bot
+## Ссылка на проект: https://t.me/aleksivanov_ai_bot
+
+## Скриншоты работы проекта:
+
+![Скриншот 1](https://github.com/aistudia-aleksivanov/aleksivanov_ai_bot/blob/main/photo_2025-02-27_12-50-56.jpg?raw=true)
+![Скриншот 2](https://github.com/aistudia-aleksivanov/aleksivanov_ai_bot/blob/main/photo_2025-02-27_12-51-11.jpg?raw=true)
+![Скриншот 3](https://github.com/aistudia-aleksivanov/aleksivanov_ai_bot/blob/main/photo_2025-02-27_12-51-19.jpg?raw=true)
+![Скриншот 4](https://github.com/aistudia-aleksivanov/aleksivanov_ai_bot/blob/main/photo_2025-02-27_12-51-30.jpg?raw=true)
+![Скриншот 5](https://github.com/aistudia-aleksivanov/aleksivanov_ai_bot/blob/main/photo_2025-02-27_12-52-05.jpg?raw=true)
+![Скриншот 6](https://github.com/aistudia-aleksivanov/aleksivanov_ai_bot/blob/main/photo_2025-02-27_12-53-34.jpg?raw=true)
+
 
 ## Содержание
 1. [Введение](#введение)
